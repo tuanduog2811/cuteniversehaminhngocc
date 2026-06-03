@@ -421,7 +421,7 @@ function decodeBase64Unicode(_0x3782b7) {
 }
 async function getHeartImages() {
     const username = 'tuanduog2811'; 
-    const repo = 'cuteniverse';        
+    const repo = 'cuteniversehaminhngocc';        
     const path = 'assets/images'; 
     
     try {
