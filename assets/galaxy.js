@@ -63,7 +63,7 @@ function _0xf391() {
     "aspect",
     "appendChild",
     "container",
-    "dataLove2Loveloom",
+    "Anh Tuan",
     "color",
     "getAttribute",
     "points",
