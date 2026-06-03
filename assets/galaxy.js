@@ -292,7 +292,7 @@ function _0xf391() {
     "getPoint",
     "rollPhase",
     "update",
-    "CUTENIVERSE",
+    "MINH NGỌC",
     "Chạm\x20Vào\x20Tinh\x20Cầu",
     "RepeatWrapping",
     "16GsjLzL",
