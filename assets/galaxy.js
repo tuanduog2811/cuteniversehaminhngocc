@@ -292,7 +292,7 @@ function _0xf391() {
     "getPoint",
     "rollPhase",
     "update",
-    "MINH NGỌC",
+    "<3 Minh Ngọc",
     "Chạm\x20Vào\x20Tinh\x20Cầu",
     "RepeatWrapping",
     "16GsjLzL",
